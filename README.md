@@ -1,4 +1,4 @@
-# frontend project
+
 
   Build a layout of Food Truck Favorites on a webpage. Features include:
 - See images of food trucks of different cuisines
